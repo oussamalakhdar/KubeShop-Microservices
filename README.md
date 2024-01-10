@@ -1,6 +1,10 @@
 # KUBERNETES - Deploy Microservices project With Helm Charts
 
-## Overview
+<img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
+
+----
+
+# Overview
 The ``Microservices`` Demo is a cloud-native application showcasing an e-commerce website. It consists of a range of services, each encapsulating a key function of the website. These services include a front-end user interface, a product catalog service, a cart service, a checkout service, and others. Each service is built using different programming languages and frameworks, demonstrating the diversity and interoperability of a microservices architecture. The project is designed to illustrate best practices for Kubernetes.
 
 ![My Image](diagram.png)
