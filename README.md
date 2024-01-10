@@ -7,7 +7,16 @@
 # Overview
 The ``Microservices`` Demo is a cloud-native application showcasing an e-commerce website. It consists of a range of services, each encapsulating a key function of the website. These services include a front-end user interface, a product catalog service, a cart service, a checkout service, and others. Each service is built using different programming languages and frameworks, demonstrating the diversity and interoperability of a microservices architecture. The project is designed to illustrate best practices for Kubernetes.
 
+![My Image](home.png)
+
+## Architecture
+
+**Online - shop** is composed of 11 microservices written in different
+languages that talk to each other over gRPC.
+
 ![My Image](diagram.png)
+
+## Key Skills and Insights Acquired
 
 By working on the "KubeShop-Microservices" project, I gained the following skills and knowledge::
 
