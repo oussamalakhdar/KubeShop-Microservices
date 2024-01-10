@@ -38,7 +38,7 @@ To Run this project, please use the following steps
 
 ## Running the Project Locally with Minikube
 
-## Prerequisites
+### Prerequisites
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/) - A local Kubernetes cluster environment.
 - [kubectl](https://kubernetes.io/docs/tasks/tools/) - A CLI tool for Kubernetes.
 - [Helmfile](https://github.com/roboll/helmfile) - For deploying applications using Helm.
