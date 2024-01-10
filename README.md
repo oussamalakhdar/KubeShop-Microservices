@@ -21,7 +21,7 @@ minikube start
 ### Start Minikube
 Clone the Repository:
 ```bash
-git clone https://github.com/oussamalakhdar/KubeShop-Microservices.git
+git clone git@github.com:oussamalakhdar/KubeShop-Microservices.git
 cd KubeShop-Microservices
 ```
 
