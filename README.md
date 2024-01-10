@@ -5,6 +5,20 @@ The Microservices Demo is a cloud-native application showcasing an e-commerce we
 
 ![My Image](diagram.png)
 
+By working on the "KubeShop-Microservices" project, you will gain insights and expertise in several critical areas:
+
+- **Kubernetes and Cloud-Native Technologies:** Learn the fundamentals of Kubernetes, including pod management, deployments, services, and understanding how to orchestrate containers in a cloud-native ecosystem.
+
+- **Microservices Architecture:** Understand how to architect, deploy, and manage a suite of microservices, learning about inter-service communication and how to maintain a scalable system.
+
+- **Service Management:** Learning to expose applications using Kubernetes services and understanding service discovery.
+
+- **Load Balancing:** Implementing load balancing for distributed applications to ensure efficient resource utilization and high availability.
+
+- **Security in Kubernetes:** Acquire knowledge about securing containerized applications, implementing network policies, and managing access control.
+
+- **Problem-Solving Skills:** Tackle real-world issues that arise in complex, distributed systems, enhancing your debugging and problem-solving abilities.
+
 # Prerequisites
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/) - A local Kubernetes cluster environment.
 - [kubectl](https://kubernetes.io/docs/tasks/tools/) - A CLI tool for Kubernetes.
