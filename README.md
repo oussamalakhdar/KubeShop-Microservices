@@ -42,11 +42,3 @@ To remove the deployed services, run:
 ```bash
 helmfile delete
 ```
-
-
-
-
-
-
-
-
