@@ -1,7 +1,7 @@
-# KUBERNETES - Deploy Online-Shop With Helm Charts
+# KUBERNETES - Deploy Microservices project With Helm Charts
 
 ## Overview
-The Microservices Demo is a cloud-native application showcasing an e-commerce website. It consists of a range of services, each encapsulating a key function of the website. These services include a frontend user interface, a product catalog service, a cart service, a checkout service, and others. Each service is built using different programming languages and frameworks, demonstrating the diversity and interoperability in a microservices architecture. The project is designed to illustrate best practices for Kubernetes.
+The ``Microservices`` Demo is a cloud-native application showcasing an e-commerce website. It consists of a range of services, each encapsulating a key function of the website. These services include a front-end user interface, a product catalog service, a cart service, a checkout service, and others. Each service is built using different programming languages and frameworks, demonstrating the diversity and interoperability of a microservices architecture. The project is designed to illustrate best practices for Kubernetes.
 
 ![My Image](diagram.png)
 
@@ -9,7 +9,7 @@ By working on the "KubeShop-Microservices" project, I gained the following skill
 
 - **Kubernetes and Cloud-Native Technologies:** Learn the fundamentals of Kubernetes, including pod management, deployments, services, and understanding how to orchestrate containers in a cloud-native ecosystem.
 
-- **Microservices Architecture:** Understand how to architect, deploy, and manage a suite of microservices, learning about inter-service communication and how to maintain a scalable system.
+- **Microservices Architecture:** Understand how to architect, deploy, and manage a suite of microservices, learn about inter-service communication, and how to maintain a scalable system.
 
 - **Service Management:** Learning to expose applications using Kubernetes services and understanding service discovery.
 
