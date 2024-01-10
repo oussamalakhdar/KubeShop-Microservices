@@ -1,4 +1,4 @@
-# Online-Shop Deployment Using Helm Charts
+# KUBERNETES - Deploy Online-Shop With Helm Charts
 
 ## Overview
 The Microservices Demo is a cloud-native application showcasing an e-commerce website. It consists of a range of services, each encapsulating a key function of the website. These services include a frontend user interface, a product catalog service, a cart service, a checkout service, and others. Each service is built using different programming languages and frameworks, demonstrating the diversity and interoperability in a microservices architecture. The project is designed to illustrate best practices for Kubernetes.
