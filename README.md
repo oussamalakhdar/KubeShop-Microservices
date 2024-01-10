@@ -37,6 +37,13 @@ Retrieve the URL for the frontend service and access it in your browser:
 minikube service frontend
 ```
 
+### Clean Up
+To remove the deployed services, run:
+```bash
+helmfile delete
+```
+
+
 
 
 
