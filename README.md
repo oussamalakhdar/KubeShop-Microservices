@@ -19,12 +19,12 @@ By working on the "KubeShop-Microservices" project, I gained the following skill
 
 - **Problem-Solving Skills:** Tackle real-world issues that arise in complex, distributed systems, enhancing your debugging and problem-solving abilities.
 
-## Getting Started
+# Getting Started
 
 To Run this project, please use the following steps
 
 
-# Prerequisites
+## Prerequisites
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/) - A local Kubernetes cluster environment.
 - [kubectl](https://kubernetes.io/docs/tasks/tools/) - A CLI tool for Kubernetes.
 - [Helmfile](https://github.com/roboll/helmfile) - For deploying applications using Helm.
